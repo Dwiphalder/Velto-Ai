@@ -1,0 +1,8 @@
+{
+  "name": "Velto AI",
+  "description": "Generate viral-worthy YouTube thumbnails from your own images using Advanced AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
